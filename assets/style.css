@@ -20,6 +20,9 @@ p div header {
 .logo-scritta {
   background-color: bisque;
   text-align: center;
+  margin: 0;
+  padding: 1em;
+  border-top: 1em;
 }
 
 .immagine-focaccia {
