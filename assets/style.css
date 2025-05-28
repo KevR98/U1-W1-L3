@@ -18,11 +18,11 @@ p div header {
 }
 
 .logo-scritta {
-  background-color: bisque;
+  background-color: rgba(229, 227, 138, 0.814);
   text-align: center;
-  margin: 0;
+  margin: 0.1;
   padding: 1em;
-  border-top: 1em;
+  border-top: solid gold;
 }
 
 .immagine-focaccia {
